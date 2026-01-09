@@ -18,7 +18,7 @@ graph LR
     Infrastructure --> Application
     Infrastructure --> Domain
     
-    style Domain fill:#f9f,stroke:#333,stroke-width:4px
+    style Domain fill:#f9f,stroke:#333,stroke-width:4px,color:#000
     style Application fill:#bfb,stroke:#333,stroke-width:2px
     style Presentation fill:#fbb,stroke:#333,stroke-width:2px
     style Infrastructure fill:#bbf,stroke:#333,stroke-width:2px

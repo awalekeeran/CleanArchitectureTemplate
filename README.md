@@ -21,5 +21,5 @@ graph LR
     style Domain fill:#f9f,stroke:#333,stroke-width:4px,color:#000
     style Application fill:#bfb,stroke:#333,stroke-width:2px,color:#000
     style Presentation fill:#fbb,stroke:#333,stroke-width:2px,color:#000
-    style Infrastructure fill:#bbf,stroke:#333,stroke-width:2px
+    style Infrastructure fill:#bbf,stroke:#333,stroke-width:2px,color:#000
 ```
